@@ -1,0 +1,32 @@
+C:\lipa3\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).exe.config
+C:\lipa3\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).exe
+C:\lipa3\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).pdb
+C:\lipa3\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.AssemblyReference.cache
+C:\lipa3\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.SuggestedBindingRedirects.cache
+C:\lipa3\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.CoreCompileInputs.cache
+C:\lipa3\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).exe
+C:\lipa3\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).exe.config
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.AssemblyReference.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).exe.config
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.AssemblyReference.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).pdb
+C:\Users\User\Desktop\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).exe.config
+C:\Users\User\Desktop\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).exe
+C:\Users\User\Desktop\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\bin\Debug\QuickSortIterativo(1).pdb
+C:\Users\User\Desktop\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).exe
+C:\Users\User\Desktop\QuickSort\QuickSortIterativo(1)\QuickSortIterativo(1)\obj\Debug\QuickSortIterativo(1).pdb
